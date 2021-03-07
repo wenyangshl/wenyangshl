@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**wenyangshl/wenyangshl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a Developer | Learner | Pioneer | thinker
 
 - 🔭 I’m currently working on building event driven system for a financial company
 - 🌱 I’m currently learning event sourcing, distributed system, data science and artificial intelligence
